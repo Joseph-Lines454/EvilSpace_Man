@@ -13,8 +13,11 @@ The spaceman also throws a special attack which you need to defend against.
 ##Controls
 
 Click any key to start playing.
+
 Use A and D to walk around.
+
 Use R,F and SPACE to attack.
+
 Use C to croutch.
 
 ## Languages/Frameworks
