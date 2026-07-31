@@ -25,7 +25,7 @@ Use C to croutch.
 - C++
 - SDL3
 
-##Setup
+## Setup
 
 ### Executable
 
