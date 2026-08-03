@@ -10,7 +10,7 @@ You fight the space man with kicking and punching moves.
 Once the space man losses a certain amount of health, the spaceman retreats.
 The spaceman also throws a special attack which you need to defend against.
 
-##Controls
+## Controls
 
 Click any key to start playing.
 
